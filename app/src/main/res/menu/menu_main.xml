@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/id_item_configuracoes"
+        android:orderInCategory="100"
+        android:title="Configurações"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/id_item_sair"
+        android:orderInCategory="200"
+        android:title="@string/item_sair"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/id_item_pesquisa"
+        android:icon="@drawable/ic_search"
+        android:orderInCategory="30"
+        android:title="Pesquisa"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/id_item_adicionar"
+        android:icon="@drawable/ic_person_add"
+        android:orderInCategory="50"
+        android:title="Adicionar"
+        app:showAsAction="always" />
+
+</menu>

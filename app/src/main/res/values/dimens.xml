@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_largura">200dp</dimen>
+    <dimen name="logo_altura">160dp</dimen>
+    <dimen name="margem_de_tela_login">10dp</dimen>
+    <dimen name="tamanho_caixa_codigo">175dp</dimen>
+</resources>

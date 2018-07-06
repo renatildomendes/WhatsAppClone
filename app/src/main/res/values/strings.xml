@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatsAppClone</string>
+    <string name="boto_cadastrar">Cadastrar</string>
+    <string name="texto_validacao">Validação</string>
+    <string name="texto_validacao_2">Você recebeu um código SMS para validação. Digite o código de validação abaixo:</string>
+    <string name="botao_validar">Validar</string>
+    <string name="botao_logar">Logar</string>
+    <string name="item_sair">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
